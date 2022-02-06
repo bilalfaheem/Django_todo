@@ -1,1 +1,1 @@
-web: gunicorn projectfile.wsgi
+web: gunicorn flutterapi.wsgi
